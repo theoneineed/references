@@ -1,0 +1,150 @@
+
+# ==========================================
+# Python
+# ==========================================
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python packaging and distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+pip-wheel-metadata/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ==========================================
+# LaTeX
+# ==========================================
+
+# Auxiliary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.toc
+*.run.xml
+*.synctex.gz
+*.synctex(busy)
+*.nav
+*.snm
+*.vrb
+*.xdv
+
+# Bibliography and indexing
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.ist
+*.idx
+*.ilg
+*.ind
+*.nlo
+*.nls
+
+# LaTeX editor and build artifacts
+*.4ct
+*.4tc
+*.idv
+*.lg
+*.tmp
+*.xref
+*.dvi
+*.ps
+*.thm
+*.upa
+*.upb
+
+# Build directories
+_latex/
+latex-out/
+texput.log
+
+# ==========================================
+# macOS
+# ==========================================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+
+# ==========================================
+# Windows
+# ==========================================
+
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ==========================================
+# Linux
+# ==========================================
+
+*~
+.fuse_hidden*
+.directory
+.Trash-*/
+
+# ==========================================
+# Editors and IDEs
+# ==========================================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.orig
+
+# ==========================================
+# Temporary and log files
+# ==========================================
+
+*.log
+*.temp
+*.temp.*
+*.cache
+*.old
+*.backup
+

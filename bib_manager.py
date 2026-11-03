@@ -1,4 +1,5 @@
 # bib_manager.py
+# code mostly written by gemini, under my supervision
 import bibtexparser
 import sys
 
